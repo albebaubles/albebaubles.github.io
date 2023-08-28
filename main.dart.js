@@ -72326,7 +72326,7 @@ s[3]=s[3]*a}}
 A.I5.prototype={
 K(a){return new A.uv(B.Or,"Web Utilities",A.aio(null,B.ir,null),null)}}
 A.x5.prototype={
-ai(){return new A.Ah(A.ass('[{"framework": "Flutter","language": "Dart","author": "Albebaubles"}]'),A.aqM("#,###,##0"),B.k)}}
+ai(){return new A.Ah(A.ass('[{"author": "Albebaubles", "framework": "Flutter", "language": "Dart", "source" : "https://github.com/albebaubles/flutter_website_utilities"}]'),A.aqM("#,###,##0"),B.k)}}
 A.Ah.prototype={
 K(a){var s,r=this,q=null,p="Enter JSON here...",o=A.hS("JSON Formatter",q,q,q,q,q,q),n=t.F,m=A.b([A.Wd(q,B.Bh,new A.a9J(r),q,q),A.Wd(q,B.Bi,new A.a9K(r),q,q),B.wo],n),l=r.VY(),k=r.d
 if(r.y){s=r.r
